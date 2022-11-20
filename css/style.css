@@ -1,0 +1,24 @@
+body{
+     margin: auto;
+     padding-left: 20px;
+     padding-right: 40px;
+     border: 2px solid black;
+     width: 50%;
+     font-size: 14px;
+     background-color: white;
+}
+
+.first_section{
+     color: green;
+     
+}
+
+
+.second_section{
+     color: red;
+     
+}
+
+.third_section{
+     color: blue;
+}
